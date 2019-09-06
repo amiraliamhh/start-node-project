@@ -1,0 +1,29 @@
+{
+  "name": "start-with-typescript",
+  "version": "0.1.0",
+  "description": "easily start typescript projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiraliamhh/start-with-typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "amirali ameri (amiraliamhh@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amiraliamhh/start-with-typescript/issues"
+  },
+  "homepage": "https://github.com/amiraliamhh/start-with-typescript#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0"
+  }
+}
